@@ -8,6 +8,13 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
+        LearnArrayList.insertStudentsName("Manali");
+        LearnArrayList.printArrayListElements();
+        LearnArrayList.practiceArrayListFunctions();
+
+        LearnStack.practiceStackFunctions();
+
+        LearnQueueAndLinkedList.practiceQueueAndLinkedListFunctions();
     }
 }
