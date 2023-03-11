@@ -16,5 +16,13 @@ public class App
         LearnStack.practiceStackFunctions();
 
         LearnQueueAndLinkedList.practiceQueueAndLinkedListFunctions();
+
+        LearnPriorityQueue.practicePriorityQueueFunctions();
+
+        LearnArrayDequeue.practiceArrayDequeueFunctions();
+
+        LearnSet.practiceSetFunctions();
+
+
     }
 }
